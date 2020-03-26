@@ -1,0 +1,14 @@
+{
+	"item.donkeykongmod.banana": "Banana",
+	"item.donkeykongmod.enchanted_banana": "Enchanted Banana",
+	"item.donkeykongmod.crystal_coconut": "Crystal Coconut",
+	"item.donkeykongmod.tie": "Donkey Kong Tie",
+	"item.donkeykongmod.nes_controller": "NES Controller",
+	"item.donkeykongmod.snes_controller": "SNES Controller",
+	"item.donkeykongmod.gameboy": "Gameboy",
+	"item.donkeykongmod.donkey_kong_country": "Donkey Kong Country",
+	"item.donkeykongmod.donkey_kong_64": "Donkey Kong 64",
+	"item.donkeykongmod.banana_barrel": "Banana Barrel",
+
+	"itemGroup.donkeykong": "Donkey Kong Mod"
+}
